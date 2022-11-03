@@ -6,6 +6,7 @@ Hi, I’m @erosmontin
 - I'm an Editor for Frontiers in Radiology for a research topic named [Radiomics and AI for clinical and translational medicine](https://www.frontiersin.org/research-topics/44008/radiomics-and-ai-for-clinical-and-translational-medicine)
 - I’m currently learning k8s
 - I’m looking to collaborate on Radiomics projects
-- You can reach me by mail eros.montin@gmail.com
-
+- You can reach me:
+  - :email: <eros.montin@gmail.com>
+  - [![Linkedin](https://i.stack.imgur.com/gVE0j.png) eros.montin](https://www.linkedin.com/in/eros-montin-46645aab/)
 
