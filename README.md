@@ -4,7 +4,7 @@ Hi, I’m @erosmontin
 - I'm the Head of Software Development [Cloud MR](http://www.cloudmrhub.com)
 - You can find  a list of my publications [here](https://me.biodimensional.com)
 - I'm an editor for Frontiers in Radiology for a research topic named [Radiomics and AI for clinical and translational medicine](https://www.frontiersin.org/research-topics/44008/radiomics-and-ai-for-clinical-and-translational-medicine)
-- I’m currently learning k8s
+- I’m currently learning AWS cloud computing
 - I’m looking to collaborate on radiomics projects
 - You can reach me:
   - :email: <eros.montin@gmail.com>
