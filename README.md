@@ -1,5 +1,5 @@
 Hi, I’m @erosmontin
-- I've worked in Bioimaging and Biosignal treatment with AI since 2009
+- I've been working in Bioimaging and Biosignal treatment with AI since 2009
 - I'm a Research Scientist in force of the [Radiology Department of NYU Langone](https://med.nyu.edu/departments-institutes/radiology/research) (yes it's me the one in the photo)
 - I'm the Head of Software Development [Cloud MR](http://www.cloudmrhub.com)
 - You can find  a list of my publications [here](https://me.biodimensional.com)
