@@ -10,7 +10,7 @@ Hi, I’m @erosmontin
 - Expert in radiomics, machine learning, and artificial intelligence.
 - Can develop front-end (Angular, ReactJS) and back-end (C++, Python, MATLAB, PHP) applications.
 - Containers Specialist, API, and Cloud Computing.
-- Currently learning AWS cloud computing.
+- Currently learning to get more serverless.
 - Editor for Frontiers in Radiology for a research topic named [Radiomics and AI for clinical and translational medicine](https://www.frontiersin.org/research-topics/44008/radiomics-and-ai-for-clinical-and-translational-medicine)
 - Always open to new collaborations
 - You can reach me:
