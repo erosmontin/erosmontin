@@ -1,5 +1,5 @@
 # Eros Montin, PhD  
-**Biomedical Engineer | AI/ML Imaging Expert | Cloud Architect | Big Data | Full Stack Develper**
+**Biomedical Engineer | AI/ML Imaging Expert | Cloud Architect | Big Data | Full Stack Developer**
 
 ## 🧠 About Me  
 I'm a biomedical engineer with 20 years of experience in **bioimaging and biosignals**, spanning:
