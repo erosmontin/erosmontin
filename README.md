@@ -38,6 +38,6 @@ I am teaching myself Quantum. any fun projects?
 
 📬 **Reach me at:**  
 - Email: eros.montin@gmail.com  
-- [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/eros-montin-46645aab/) **LinkedIn**
+- [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/erosmontin/) **LinkedIn**
 
 ## 🔗 [GitHub Profile](https://github.com/erosmontin/)
