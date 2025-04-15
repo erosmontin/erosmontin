@@ -1,5 +1,5 @@
 # Eros Montin, PhD  
-**Biomedical Engineer | AI/ML Imaging Expert | Cloud Architect | Big Data**
+**Biomedical Engineer | AI/ML Imaging Expert | Cloud Architect | Big Data | Full Stack Develper**
 
 ## 🧠 About Me  
 I'm a biomedical engineer with 20 years of experience in **bioimaging and biosignals**, spanning:
@@ -26,11 +26,16 @@ _Yes, that's me in the photo_
 - **Interdisciplinary Leadership:** Scientific communication, team leadership, tech evangelism  
 
 ## 📚 Publications & Projects  
-- 30+ peer-reviewed papers ([me.biodimensional.com](https://me.biodimensional.com))  
-- Guest Editors for 
- - *Frontiers in Radiology*: [Radiomics and AI for Clinical and Translational Medicine](https://www.frontiersin.org/research-topics/44008/radiomics-and-ai-for-clinical-and-translational-medicine)
- - *journal of Clinical Medicina* [Artificial Intelligence and Deep Learning in Medical Imaging](https://www.mdpi.com/journal/jcm/special_issues/NSBIR80275)
+- 30+ peer-reviewed papers ([me.biodimensional.com](https://biodimensional.com))  
+- Guest Editors for:
+
+  - *Frontiers in Radiology*: [Radiomics and AI for Clinical and Translational Medicine](https://www.frontiersin.org/research-topics/44008/radiomics-and-ai-for-clinical-and-translational-medicine)
+  - *Journal of Clinical Medicine* [Artificial Intelligence and Deep Learning in Medical Imaging](https://www.mdpi.com/journal/jcm/special_issues/NSBIR80275)
+
 - [Open Source Projects](https://github.com/erosmontin?tab=repositories): MRI simulation tools, radiomics frameworks, and cloud-native apps  
+
+## 🧭 CV  
+You can view or download my full CV [here (PDF)](https://erosmontin.s3.us-east-1.amazonaws.com/CV.pdf)
 
 ## 🤝 Let’s Collaborate  
 I’m always open to new research and tech collaborations.
