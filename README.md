@@ -45,4 +45,4 @@ I am teaching myself Quantum. any fun projects?
 - Email: eros.montin@gmail.com  
 - [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/erosmontin/) **LinkedIn**
 
-## 🔗 [GitHub Profile](https://github.com/erosmontin/)
+
