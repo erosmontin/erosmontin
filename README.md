@@ -10,7 +10,7 @@ I'm a biomedical engineer with 20 years of experience in **bioimaging and biosig
 - Dermatology
 - Cardiology
 
-Currently, I work as a **Research Scientist at NYU Langone's Department of Radiology**, where I also lead as **Head of Software Development** at the Radiology department of [NYU](https://med.nyu.edu/departments-institutes/radiology/research).  
+Currently, I work as a **Senior Research Scientist at NYU Langone's Department of Radiology**, where I also lead as **Head of Software Development** at the Radiology department of [NYU](https://med.nyu.edu/departments-institutes/radiology/research).  
 _Yes, that's me in the photo_
 
 ## 🧪 Expertise  
