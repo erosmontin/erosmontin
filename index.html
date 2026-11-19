@@ -1,0 +1,93 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#101a21">
+  <meta name="description" content="A customizable, upper-body focused gym planner with hip-friendly alternatives. Track sessions and keep your routines on your device.">
+  <title>Forge • My Gym Routine</title>
+  <link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+  <div class="page-shell">
+    <header class="topbar">
+      <a class="brand" href="./" aria-label="Forge Gym Planner home">
+        <span class="brand-symbol" aria-hidden="true">✳</span>
+        <span class="brand-name">FORGE<span class="brand-dot">.</span></span>
+        <span class="brand-caption">PERSONAL TRAINING STUDIO</span>
+      </a>
+      <div class="top-actions">
+        <span class="status-label"><span class="status-dot"></span> Saved on this device</span>
+        <button type="button" class="button button-outline top-export" data-action="export">↗ Export backup</button>
+      </div>
+    </header>
+
+    <main class="content">
+      <section class="hero" aria-labelledby="page-title">
+        <div class="hero-copy">
+          <span class="eyebrow"><span class="eyebrow-bar"></span> YOUR STRENGTH, YOUR PACE</span>
+          <h1 id="page-title">Build strength.<br><em>Move with confidence.</em></h1>
+          <p>An upper-body focused weekly plan, with thoughtful hip-friendly movements, flexible exercise choices, and progress tracking.</p>
+          <div class="hero-tags"><span>💪 Upper body priority</span><span>✳ Hip-aware training</span><span>◷ 30–50 min weights</span></div>
+        </div>
+        <div class="hero-graphic" aria-hidden="true"><span class="hero-arc arc-one"></span><span class="hero-arc arc-two"></span><span class="hero-glyph">✳</span><span class="hero-graphic-caption">SHOW UP<br>GET STRONGER</span></div>
+      </section>
+
+      <section class="schedule" aria-label="Weekly workout selection">
+        <div class="section-heading"><div><span class="eyebrow subdued">THE WEEKLY SPLIT</span><h2>Choose your training day</h2></div><span class="section-side">4 training days · 3 recovery days</span></div>
+        <div id="day-picker" class="day-picker" role="group" aria-label="Choose workout day"></div>
+      </section>
+
+      <div class="workspace-grid">
+        <div class="primary-column">
+          <section class="card training-card" aria-labelledby="workout-title">
+            <div class="workout-heading">
+              <div><span class="eyebrow subdued" id="day-kicker">YOUR SESSION</span><h2 id="workout-title">Monday workout</h2><p id="workout-subtitle"></p></div>
+              <div class="mini-pill" id="workout-type">UPPER BODY</div>
+            </div>
+            <div id="workout-main"></div>
+          </section>
+        </div>
+        <aside class="secondary-column" aria-label="Workout settings and progress">
+          <section class="card time-card">
+            <span class="eyebrow subdued">YOUR TIME</span>
+            <h3>How long today?</h3>
+            <p class="muted small">Strength training time, excluding your 20-minute cardio and 10-minute abs / stretching.</p>
+            <div id="duration-buttons" class="duration-buttons" role="group" aria-label="Choose strength workout duration"></div>
+            <div class="time-breakdown">
+              <div class="time-bar"><span class="time-cardio"></span><span class="time-core"></span><span class="time-lifting" id="time-lifting-bar"></span></div>
+              <div><span>20m cardio</span><span>10m abs + stretch</span><span id="strength-label">40m weights</span></div>
+            </div>
+          </section>
+          <section class="card summary-card" id="summary-section" aria-label="Workout progress"></section>
+          <section class="card backup-card">
+            <span class="eyebrow subdued">YOUR ROUTINES</span>
+            <h3>Save your favorites</h3>
+            <p class="muted small">Create a named version of the selected day, then reload it whenever you want.</p>
+            <label for="preset-name" class="field-label">Routine name</label>
+            <div class="inline-form"><input id="preset-name" type="text" maxlength="60" placeholder="e.g. Monday machines" autocomplete="off"><button class="button button-dark" type="button" data-action="save-preset">Save</button></div>
+            <label for="preset-select" class="field-label">Saved routines</label>
+            <select id="preset-select" aria-label="Saved routines"><option value="">No saved routines yet</option></select>
+            <div class="two-buttons"><button type="button" class="button button-outline" data-action="load-preset">Load</button><button type="button" class="button button-subtle" data-action="delete-preset">Delete</button></div>
+            <div class="backup-divider"></div>
+            <div class="backup-actions"><button type="button" class="text-action" data-action="export">↓ Download JSON backup</button><button type="button" class="text-action" data-action="import">↑ Restore JSON backup</button></div>
+            <input type="file" id="import-file" accept=".json,application/json" hidden aria-label="Import workout backup">
+            <p class="backup-note">Selections auto-save on this browser. For another device, export and import a backup. No cloud account is needed.</p>
+          </section>
+        </aside>
+      </div>
+
+      <section class="card history-card" id="history-section" aria-labelledby="history-title">
+        <div class="section-heading"><div><span class="eyebrow subdued">KEEP THE MOMENTUM</span><h2 id="history-title">Workout history</h2></div><span class="section-side" id="history-count">0 sessions recorded</span></div>
+        <div id="history-list"></div>
+      </section>
+
+      <section class="safety-note"><span class="safety-icon">✳</span><div><strong>Train comfortably, not through pain.</strong><p>FAI tolerance varies from person to person. Avoid sharp groin pinching, catching, or symptom flare-ups. Keep hip movements controlled and within a comfortable range; a physiotherapist can personalize your lower-body work. This planner is not medical advice.</p></div></section>
+    </main>
+
+    <footer><span>FORGE. / YOUR PERSONAL GYM PLANNER</span><span>Built to get a little stronger, one session at a time.</span></footer>
+  </div>
+  <div class="toast" id="toast" role="status" aria-live="polite"></div>
+  <script src="./app.js" defer></script>
+</body>
+</html>
